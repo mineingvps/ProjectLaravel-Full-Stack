@@ -17,7 +17,7 @@
                     @endif
 
                     
-                    @section('title') BikeShop | อุปกรณ์จักรยาน, อะไหล่, ชุดแข่ง และอุปกรณ์ตกแต่ง @endsection
+                    @section('title') BikeShop | อุปกรณ์จักรยาน, อะไหล่, ชุดแข่ง และอุปกรณ์ตกแต่ง ก @endsection
                     @section('content')
                     
                     
